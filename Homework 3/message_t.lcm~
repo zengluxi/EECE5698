@@ -1,0 +1,14 @@
+package exlcm;
+
+struct message_t
+{
+    	string time;
+	string latitude;
+	string latitude_direc;
+	string longtitude;
+	string longtitude_direc;
+	string altitude;
+	string altitude_unit;
+	string utm_x;
+	string utm_y;
+}
