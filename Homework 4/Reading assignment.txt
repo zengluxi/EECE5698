@@ -1,0 +1,27 @@
+Reading Assignment:
+Article 1: Lodestone and needle: the rise of the magnetic compass
+1. This article basically describes the history of magnetic compass, from the reason why it came out to its step-by-step development
+2. First of all, it helped me reviewed the knowledge of lodestone, which used as the fundamental material of making a magnetic compass. It says that the lodestone is always present the same of side of its mass toward the pole star. 
+3.  For the process of magnetizing an iron wire, that reminds me of some small experiment that I did in the science class. We used an iron wire to touch the magnet and try to absorb random things. It turns out that: the longer you touch wire with magnet, the longer magnetism it sustains; and as time goes by, the magnetism will eventually go away. 
+4.  Also, there are a couple of new knowledge that I learned after reading, such as: north was traditionally indicated on the card by a fleur-de-lis, a "cross" symbol became the standard identifier for east, a card is a piece of round parchment sized to the span of a man's hand and mounted on the needle. The card's surface was marked with the points associated with the primary wind directions. I think they may can be beneficial as I work on the project sooner or later. 
+
+Article 2: The Self-Sustaining Dynamo in the Earth's Core - Origin of The Earth's Magnetism
+
+1. Compared with the previous article: “Lodestone and needle: the rise of the magnetic compass”, this one is more like a scientific journal, which describes some of the theory/assumption or even fallacy related with magnetic of the earth. 
+2. Since earth's magnetic axis is close to its rotation axis, in other words, that the magnetic poles, where the magnetic force points straight down, are quite close to the geographical ones. 
+So the first issue this journal discusses about is: whether the earth rotate because it’s magnetic or the reverse way.  
+At the time when scientists figured out during the last tens of millions of years, the magnetic polarity of the Earth reversed many times, 
+it turns out the latter idea: ‘the Earth was magnetic because it rotated around its axis’ was wrong. 
+I think this example from one perspective shows how people gradually understand the planet they are living on. 
+First proposing an assumption, then used experiments to prove it’s either true/wrong, and then corrected it, follows loop again and again. 
+Follow this procedure, we will have better idea about the magnetics of the earth. 
+3. The idea of “the sun’s magnetism” is kind of hard for me to understand at the beginning of time, 
+it’s not about the complexity of theory but rather because of the physical principles behind the scene. 
+From my own understanding of the journal, the rotation of magnetic field will produce the current, 
+and then the rotation of current field will again generate the magnetic field. 
+Also, solid rotation will not create any currents, part of its circuit is outside the disk, not sharing its rotation. 
+4.I think I definitely learn a lot from this journal, hopefully I would be able to apply some of the theories to my research/ academic study later. 
+
+
+
+
