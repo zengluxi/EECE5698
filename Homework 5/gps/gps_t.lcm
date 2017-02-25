@@ -1,0 +1,14 @@
+package gps;
+
+struct gps_t
+{
+	int64_t timestamp;	
+	float lat;
+	float lon;
+	float alt;
+	float utm_x;
+	float utm_y;
+	float utm_zone;
+	string lat_dir;
+	string lon_dir;
+}
